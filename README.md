@@ -8,3 +8,5 @@ automated testing for asort
 4. install chrome driver
     npm i chromedriver
 5. go to the path of the test file and run the test file as 'node <filename>.js'
+
+For changing the version of asort t be tested, change the url in line number 185.
